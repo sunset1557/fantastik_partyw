@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+header{
+   border:4px solid burlywood; border-radius:8px;
+}
+header b {color:Tan;}
+header a{
+         color:white;
+         background:BurlyWood;
+         text-decoration:none;
+         border:1px solid white;
+         border-radius:5px;}
+h1{
+    color:SaddleBrown;
+    border:4px solid Sienna;
+    border-radius:20px;
+    text-align:center;
+    font-family:sans-serif;}
+
+
+ 
+footer p{
+  background-color:white ;
+  border:7px solid navajowhite;
+  margin:0px
+}
+nav{
+  background:SandyBrown;
+  font-size:20px;
+  padding:3px;
+  border:5px solid white;
+  border-radius:15px;
+  
+}
+
+.bom{
+    background-color:rgb(245, 195, 131);
+}
+
+
+nav a{
+  text-decoration:none;
+  color:white;
+  
+  
+}
+h2{
+  color:SaddleBrown;
+}
+nav a {
+  margin:20px;
+}
+.vim{
+  border:2px solid saddlebrown;
+  text-decoration:none;
+  color:sienna;
+  
+}
